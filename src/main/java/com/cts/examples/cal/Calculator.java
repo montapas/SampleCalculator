@@ -19,7 +19,7 @@ public class Calculator implements ICalculator {
 	}
 
 	 
-	public int divison(int a, int b) throws Exception {
+	public int divison(int a, int b)  {
 		 
 		return a / b;
 	}
