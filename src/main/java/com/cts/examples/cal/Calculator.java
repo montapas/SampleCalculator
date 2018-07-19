@@ -9,10 +9,7 @@ public class Calculator implements ICalculator {
 
 	 
 	public int subtraction(int a, int b) {
-		int j;
-		while (true) {  
-		  j++;
-		}
+		
 		return a - b;
 	}
 
