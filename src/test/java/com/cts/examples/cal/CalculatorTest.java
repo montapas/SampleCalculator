@@ -35,7 +35,7 @@ public class CalculatorTest {
 	public void testSum() {
 		int result = calculator.sum(3, 4);
 
-		assertEquals(6, result);
+		assertEquals(7, result);
 	}
 
 	@Test
@@ -67,6 +67,6 @@ public class CalculatorTest {
 	public void testSubstraction() {
 		int result = 10 - 3;
 
-		assertTrue(result == 9);
+		assertTrue(result == 7);
 	}
 }
