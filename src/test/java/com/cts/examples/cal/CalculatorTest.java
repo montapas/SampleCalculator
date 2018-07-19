@@ -49,10 +49,7 @@ public class CalculatorTest {
 		}
 	}
 
-	@Test(expected = Exception.class)
-	public void testDivisionException() throws Exception {
-		calculator.divison(10, 0);
-	}
+	 
 
 	@Ignore
 	@Test
