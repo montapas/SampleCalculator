@@ -5,8 +5,7 @@ public class Calculator implements ICalculator {
 	 
 	public int sum(int a, int b) {
 		 int j;
-  		 
-		return a + b;
+  		 return a + b;
 		
 		
 	}
